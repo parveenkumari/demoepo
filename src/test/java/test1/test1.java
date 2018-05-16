@@ -13,6 +13,8 @@ public class test1 {
 	@Test
 	public void tc_1() {
 		
+		System.out.println("we are in 1st test class");
+		
 		 ExtentReports extent = new ExtentReports("D:\\Report\\report1.html", true);
 		ExtentTest test = null;
 		
