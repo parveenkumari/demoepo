@@ -15,7 +15,7 @@ public class test1 {
 		
 		System.out.println("we are in 1st test class");
 		
-		 ExtentReports extent = new ExtentReports("D:\\Report\\report1.html", true);
+		 ExtentReports extent = new ExtentReports("C:\\Users\\parveen\\Downloads\\maven\\test1\\test-output\\extent.html", true);
 		ExtentTest test = null;
 		
 	System.out.println("running test case");
